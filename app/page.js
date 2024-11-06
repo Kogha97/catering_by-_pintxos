@@ -79,7 +79,7 @@ export default function Page() {
             Your browser does not support the video tag.
           </video>
           <h2>Catering by</h2>
-          <Image src='pintxos-logo-6x-peach.webp' alt='pintxos logo'/>
+          <Image src='/pintxos-logo-6x-peach.png' alt='pintxos logo' width={500} height={200}/>
         </div>
       </main>
       <section className='about-us' id='aboutMe'>
@@ -97,14 +97,14 @@ export default function Page() {
         {/* About Us Images with Hover Text Wall */}
         <div className="about-us-images">
           <div className="image-container">
-            <Image src="./cat-photo.jpg" alt="Catheryn Finn" />
+            <img src="./cat-photo.jpg" alt="Catheryn Finn" />
             <div className="overlay">
               <p>Catheryn Finn is the head chef at Pintxos with over 10 years of experience in Basque cuisine. She brings creativity and passion to every dish.</p>
             </div>
           </div>
 
           <div className="image-container">
-            <Image src="./jim-photo.jpg" alt="Jimmy" />
+            <img src="./jim-photo.jpg" alt="Jimmy" />
             <div className="overlay">
               <p>Jimmy is the founder of Pintxos and has a deep love for culinary arts. He oversees the business and ensures the highest standards in every event.</p>
             </div>
@@ -137,7 +137,7 @@ export default function Page() {
       <div className="services-horizontal">
 
         <div className="service-card">
-          <Image src="/images/event-catering.jpg" alt="Event Catering" />
+          <img src="/images/event-catering.jpg" alt="Event Catering" />
           <div className="service-info">
             <h3>Event Catering</h3>
             <p>We offer full-service catering for weddings, corporate events, and private gatherings, with customized menus tailored to your tastes.</p>
@@ -146,7 +146,7 @@ export default function Page() {
         
  
         <div className="service-card">
-          <Image src="/images/private-dining.jpg" alt="Private Dining" />
+          <img src="/images/private-dining.jpg" alt="Private Dining" />
           <div className="service-info">
             <h3>Private Dining</h3>
             <p>Host private dining experiences with our team, providing an intimate and bespoke dining experience at your venue.</p>
@@ -154,7 +154,7 @@ export default function Page() {
         </div>
 
         <div className="service-card">
-          <Image src="/images/corporate-catering.jpg" alt="Corporate Catering" />
+          <img src="/images/corporate-catering.jpg" alt="Corporate Catering" />
           <div className="service-info">
             <h3>Corporate Catering</h3>
             <p>Delivering exceptional catering services for corporate events, business meetings, and conferences with professional service and customized menus.</p>
@@ -187,7 +187,7 @@ export default function Page() {
       <FontAwesomeIcon icon={['fab', 'tiktok']} size="2x" />
     </a>
     <a href="https://www.tripadvisor.co.uk/Restaurant_Review-g187062-d24187895-Reviews-Bar_Pintxos-Preston_Lancashire_England.html" target="_blank" rel="noopener noreferrer" aria-label="TripAdvisor">
-     <Image src='hover_tripadvisor_icon.png' alt='tripaadvisor icon' className='tripadvisor_icon'/>
+     <img src='hover_tripadvisor_icon.png' alt='tripaadvisor icon' className='tripadvisor_icon'/>
     </a>
   </div>
   <div className='contactUs'>

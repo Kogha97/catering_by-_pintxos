@@ -50,6 +50,9 @@ header{
     color: var(--text);
     transition: 0.3s ease-in;
   }
+  .pintxosLogo{
+    width: 50dvw;
+  }
   .banner{
     position: relative;
     display: flex;
