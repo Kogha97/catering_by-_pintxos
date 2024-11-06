@@ -104,7 +104,7 @@ export default function Page() {
           </div>
 
           <div className="image-container">
-            <img src="./jim-photo.jpg" alt="Jimmy" />
+            <img src="./jimmy-photo.jpg" alt="Jimmy" />
             <div className="overlay">
               <p>Jimmy is the founder of Pintxos and has a deep love for culinary arts. He oversees the business and ensures the highest standards in every event.</p>
             </div>
