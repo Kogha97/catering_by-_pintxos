@@ -223,7 +223,7 @@ header{
   .our-services {
     background-color: var(--background-color);
     color: var(--text);
-    padding: 200px 0;
+    padding: 200px 0px 100px 0px;
     text-align: center;
   }
   
