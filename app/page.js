@@ -90,7 +90,7 @@ export default function Page() {
             At Pintxos, we specialize in bringing authentic, delicious Basque-style tapas (pintxos) to your events. With a deep passion for food, we focus on creating unique and unforgettable dining experiences. Our team is dedicated to providing you with the highest level of service, ensuring that every event is a success.
           </p>
           <p>
-            Whether you're planning a corporate event, wedding, or private party, Pintxos is here to cater to your needs with customized menus and a personal touch.
+            Whether you&apos;re planning a corporate event, wedding, or private party, Pintxos is here to cater to your needs with customized menus and a personal touch.
           </p>
         </div>
 
