@@ -79,7 +79,7 @@ export default function Page() {
             Your browser does not support the video tag.
           </video>
           <h2>Catering by</h2>
-          <img src='pintxos-logo-6x-peach.webp'/>
+          <img src='pintxos-logo-6x-peach.webp' alt='pintxos logo'/>
         </div>
       </main>
       <section className='about-us' id='aboutMe'>
@@ -187,7 +187,7 @@ export default function Page() {
       <FontAwesomeIcon icon={['fab', 'tiktok']} size="2x" />
     </a>
     <a href="https://www.tripadvisor.co.uk/Restaurant_Review-g187062-d24187895-Reviews-Bar_Pintxos-Preston_Lancashire_England.html" target="_blank" rel="noopener noreferrer" aria-label="TripAdvisor">
-     <img src='hover_tripadvisor_icon.png'className='tripadvisor_icon'/>
+     <img src='hover_tripadvisor_icon.png' alt='tripaadvisor icon' className='tripadvisor_icon'/>
     </a>
   </div>
   <div className='contactUs'>
