@@ -1,0 +1,1 @@
+export const NAME = "Catering by Pintxos"
