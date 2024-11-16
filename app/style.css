@@ -538,3 +538,9 @@ header{
     height: 250px;
   }
 }
+@media screen and (min-height:1080px){
+  header{
+    padding: 10px 0px 10px 0px;
+    height:3dvh;
+  }
+}
