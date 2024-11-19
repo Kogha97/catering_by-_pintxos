@@ -79,7 +79,7 @@ export default function Page() {
             Your browser does not support the video tag.
           </video>
           <h2>Catering by</h2>
-          <Image src='/pintxos-logo-6x-peach.png' alt='pintxos logo' width={500} height={200}/>
+          <Image src='/pintxos-logo-6x-peach.png' alt='pintxos logo' width={450} height={200}/>
         </div>
       </main>
       <section className='about-us' id='aboutMe'>
